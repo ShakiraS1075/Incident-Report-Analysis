@@ -24,8 +24,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+![Screenshot 2025-02-05 133810](https://github.com/user-attachments/assets/1896672a-e397-4720-a5fc-7e5a06540bec)
+![Screenshot 2025-02-05 133927](https://github.com/user-attachments/assets/4129e2f7-df6f-4ba2-a252-69e5615226e4)
+![Screenshot 2025-02-05 134023](https://github.com/user-attachments/assets/ca3938cc-6b18-4647-bbf0-b5b29d8bec25)
 
-Example below.
 
 *Ref 1: Network Diagram*
+
