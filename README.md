@@ -3,7 +3,7 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This incident shows a brief overview incident report analysis of an organization needing help with a situation where their services were malfunctioned to operate effectively. This documentation shows the steps needed to restore the company’s operations back together from a potential cyber-attack that harmed the company’s resources.  
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
