@@ -2,7 +2,7 @@
 
 ## Objective
 
-This incident shows a brief overview incident report analysis of an organization needing help with a situation where their services were malfunctioned to operate effectively. This documentation shows the steps needed to restore the company’s operations back together from a potential cyber-attack that harmed the company’s resources.  
+Motivate the team to stay up-to-date with the latest trends and emerging threats in the cybersecurity field. Actively engage in industry forums, conferences, and threat intelligence-sharing programs to gain valuable insights into evolving attack methods.
 
 ### Skills Learned
 
@@ -23,5 +23,8 @@ This incident shows a brief overview incident report analysis of an organization
 ![Screenshot 2025-02-05 134023](https://github.com/user-attachments/assets/ca3938cc-6b18-4647-bbf0-b5b29d8bec25)
 
 
-*Ref 1: Network Diagram*
+*Ref 1: This incident shows a brief overview incident report analysis of an organization needing help with a situation where their services were malfunctioned to operate effectively.*
+*Ref 2:.*This documentation shows the steps needed to restore the company’s operations back together from a potential cyber-attack that harmed the company’s resources.*
+*Ref 3: Suggestions have been provided to prevent these issues from happening against more cyberthreats in the future.*
+
 
