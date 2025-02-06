@@ -6,11 +6,15 @@ Motivate the team to stay up-to-date with the latest trends and emerging threats
 
 ### Skills Learned
 
-- 
+- Incident identification and analysis
+- Containment and mitigation
+- Investigation and evidence collection
+- Incident response communication
+- Post-incident analysis and remediation
 
 ### Tools Used
 
-- NIST Framework 
+- NIST CyberSecurity Framework 
 
 ## Steps
 
